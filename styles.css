@@ -1,0 +1,11 @@
+.banner,.content {
+    background-color: orange;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipe-image {
+    height: 300px;
+    width: auto;
+    background-color: orange;
+}
