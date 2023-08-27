@@ -1,11 +1,28 @@
-.banner,.content {
+html {
+    background-color: rgb(255, 115, 0)
+}
+
+.banner,.content,.image-center {
     background-color: orange;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 8px;
+    border: 4px solid burlywood;
+}
+
+h1 {
+    text-align: center;
 }
 
 .recipe-image {
     height: 300px;
     width: auto;
-    background-color: orange;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-center {
+    margin-bottom: 20px;
+
 }
